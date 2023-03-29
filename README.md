@@ -154,5 +154,3 @@ Special thanks to [cintix](https://www.reddit.com/user/cintix) for the advice re
 [Ethereum Logo](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a2bcf4f8-9a5d-4f85-873b-cf94ce537eb0.png) - free for non-commercial use via Google Filter Settings
 
 ### License
-
-[MIT](https://github.com/brakmic/BlockchainStore/blob/master/LICENSE)
